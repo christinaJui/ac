@@ -15,7 +15,7 @@
 <body>
        
 
-<div class="demo-title"><h4>DEMO BY <span class="one">CODEX</span><span class="two">WORLD</span>: Autocomplete Textbox using jQuery, PHP and MySQL</h4></div>
+
         <div class="container">
 
     <div class="row">
