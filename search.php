@@ -12,7 +12,7 @@ $db = new mysqli($dbHost, $dbUsername, $dbPassword, $dbName);
 // Get search term
 $searchTerm = $_REQUEST['term'];
 
-// Get matched data from skills table
+// Get matched data from skills table edit
 $query = $db->query("SELECT * FROM category WHERE category_name LIKE '%".$searchTerm."%' ORDER BY category_name ASC");
 
 // Generate skills data array
