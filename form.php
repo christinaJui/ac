@@ -31,7 +31,7 @@ padding : 12% 0;
 </style>
 
 
-<section class="login-block">
+<section class="login-block etc">
     <div class="container">
 	<div class="row">
 
